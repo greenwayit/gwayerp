@@ -2,7 +2,7 @@ body{font-family:"Open Sans",sans-serif;color:#444}
 a{color:#1bbaa4}
 a:hover{color:#139a87;text-decoration:none}
 h1,h2,h3,h4,h5,h6{font-family:"Raleway",sans-serif}
-.back-to-top{position:fixed;display:none;right:15px;bottom:15px;z-index:99999}
+.back-to-top{position:fixed;display:none;right:15px;bottom:15px;z-index:99999;margin-bottom: 85px;}
 .back-to-top i{display:flex;align-items:center;justify-content:center;font-size:24px;width:40px;height:40px;border-radius:50px;background:#1bbaa4;color:#fff;transition:all .4s}
 .back-to-top i:hover{background:#139a87;color:#fff}
 @media screen and (max-width:768px){[data-aos-delay]{transition-delay:0!important}
