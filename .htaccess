@@ -1,2 +1,1 @@
-RewriteCond %{THE_REQUEST} ^.*/index.html 
-RewriteRule ^(.*)index.html$ gwayerp.com$1 [R=301,L]
+
